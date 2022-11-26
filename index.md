@@ -30,7 +30,7 @@ First, nightclubs have to log in with pre-assigned credentials.
 </p>
 
 <p align="center">
-Then they are met with their dashboard, where the number of occupants is clearly visible along with buttons that allow them to increment and decrement. 
+Then they are met with their mobile dashboard, where the number of occupants is clearly visible along with buttons that allow them to increment and decrement. 
 </p>
 
 <p align="center">
@@ -52,6 +52,10 @@ Instead of relying on analytics tools such as Google Analytics, I created a scri
   
 Giving nightclubs KPIs and supporting visualisations will provide them with insights into their business and ideas for improving it. 
 </p>
+
+<img align="center" src="https://user-images.githubusercontent.com/24978137/204086493-500ff4d7-2913-41ed-9796-917674c38245.png">
+<img align="center" src="https://user-images.githubusercontent.com/24978137/204086533-153a6ace-bd93-448a-8239-2c690166b1c5.png">
+<img align="center" src="https://user-images.githubusercontent.com/24978137/204086685-a7cbac3a-f639-4be3-a81c-7898b81cbc50.png">
 
 <h2 align="center">User-Facing</h2>
 
