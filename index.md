@@ -4,11 +4,7 @@ populr provides nightclubs with data analytics and monthly breakdowns while also
 </p>
 
 <p align="center">
-Like most start-ups, this one was born from a problem, not knowing when to go to a nightclub. Too early and you will be forced to pay for expensive drinks in an empty venue, and too late and you will be forced to stand in line, a cold affair in the UK. 
-</p>
-
-<p align="center">
-The start-up is ready to launch, and I already have over ten subscribed nightclubs. However, finding the right time to launch can be difficult because the nightclub industry has been heavily affected by the Coronavirus pandemic.  
+Like most projects, this one was born from a problem: not knowing when and which nightclub to go to. Too early and you will be forced to pay for expensive drinks in an empty venue, and too late and you will be forced to stand in line, a cold affair in the UK. 
 </p>
 
 <p align="center">
@@ -69,7 +65,7 @@ The user-facing side does not have an app yet but instead has a webpage created 
 <h2 align="center">Primary Technologies Used</h2>
 
 <p align="center">
-Flutter, React, GraphQL, AWS: Kinesis, DynamoDB, Amplify, AppSync, Cognito, S3
+Flutter, React.js, Node.js, GraphQL, MongoDB, AWS: Kinesis, Lambda, Amplify, AppSync, Cognito
 </p>
 
 
