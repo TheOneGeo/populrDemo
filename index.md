@@ -45,8 +45,8 @@ A swipe left allows nightclubs to mutate the value of their estimated queue leng
 This allows for easy expansion. If a new nightclub joins, all I need to do is send them some Android phones and give them login credentials. We collect and store all of this data and then provide monthly reports that contain monthly, weekly and daily breakdowns and comparisons with visualisations that allow nightclubs to run their business better.    
 </p>
 
-<p>
-Instead of relying on analytics tools such as Google Analytics, I created a script which collects only a limited amount of user information. The script posts that data to a MongoDB database which specific nightclubs can then view on their dashboard. By not using third-party solutions, I can split the data by nightclub and serve it directly to them as a feature. Giving nightclubs KPIs and supporting visualisations will provide them with insights into their business and ideas for improving it.
+<p align="center">
+Instead of relying on analytics tools such as Google Analytics, I created a script which collects only a limited amount of user information. The script posts that data to a MongoDB database which specific nightclubs can then view on their dashboard. By not using third-party solutions, I can split the data by nightclub and serve it directly to them as a feature. Giving nightclubs KPIs and supporting visualisations will provide them with insights into their business and ideas for improving it. Here are some example visualisations from the dashboard:
 </p>
 
 <img align="center" src="https://user-images.githubusercontent.com/24978137/204086493-500ff4d7-2913-41ed-9796-917674c38245.png">
