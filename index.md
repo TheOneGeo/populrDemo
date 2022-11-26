@@ -38,7 +38,7 @@ Then they are met with their dashboard, where the number of occupants is clearly
 </p>
 
 <p align="center">
-A swipe left allows nightclubs to mutate the value of their estimated queue length. We also give them the option to change the value that they increment and decrement by as some venues are larger than others.
+A swipe left allows nightclubs to mutate the value of their estimated queue length. We also give them the option to change the value that they increment and decrement by, as some venues are larger than others.
 </p>
 
 <p align="center">
@@ -47,6 +47,10 @@ A swipe left allows nightclubs to mutate the value of their estimated queue leng
 
 <p align="center">
 This allows for easy expansion. If a new nightclub joins, all I need to do is send them some Android phones and give them login credentials. We collect and store all of this data and then provide monthly reports that contain monthly, weekly and daily breakdowns and comparisons with visualisations that allow nightclubs to run their business better. 
+  
+Instead of relying on analytics tools such as Google Analytics, I created a script which collects only a limited amount of user information. The script posts that data to a MongoDB database which specific nightclubs can then view on their dashboard. By not using third-party solutions, I can split the data by nightclub and serve it directly to them as a feature. 
+  
+Giving nightclubs KPIs and supporting visualisations will provide them with insights into their business and ideas for improving it. 
 </p>
 
 <h2 align="center">User-Facing</h2>
